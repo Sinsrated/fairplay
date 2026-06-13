@@ -1,12 +1,12 @@
 {
-  "currentVersion": "1.1.0",
+  "currentVersion": "0.0",
   "globalMaintenance": false,
   "globalMaintenanceMessage": "Kyogobe is currently down for maintenance. We'll be back shortly.",
   "apkUrl": "https://raw.githubusercontent.com/Sinsrated/kyogobe.apk/main/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
     {
-      "version": "1.2.0",
+      "version": "1.0",
       "releaseDate": "2026-06-13",
       "mandatory": true,
       "releaseNotes": [
@@ -20,20 +20,7 @@
       "maintenanceMessage": ""
     },
     {
-      "version": "1.1.0",
-      "releaseDate": "2026-06-10",
-      "mandatory": true,
-      "releaseNotes": [
-        "Added: Card payment support"
-        
-      ],
-      "state": "OLD",
-      "supported": true,
-      "maintenance": false,
-      "maintenanceMessage": ""
-    },
-    {
-      "version": "1.0.0",
+      "version": "0.0",
       "releaseDate": "2026-05-01",
       "mandatory": false,
       "releaseNotes": [
