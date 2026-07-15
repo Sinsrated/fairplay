@@ -6,14 +6,27 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
        {
-      "version": "1.3",
+      "version": "1.4",
       "releaseDate": "2026-06-29",
       "mandatory": true,
       "releaseNotes": [
-        "Added: background on player",
-        "Fixed: Minor bugs"
+        "Added: search by year",
+        "Fixed: login issues"
       ],
       "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+    {
+      "version": "1.3",
+      "releaseDate": "2026-06-29",
+      "mandatory": false,
+      "releaseNotes": [
+         "Added: background on player",
+        "Fixed: Minor bugs"
+      ],
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
