@@ -41,7 +41,7 @@
         "Fixed: Minor bugs"
       ],
       "state": "OLD",
-      "supported": false,
+      "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
     },
@@ -55,7 +55,7 @@
         "Fixed: Minor bugs"
       ],
       "state": "OLD",
-      "supported": false,
+      "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
     },
@@ -69,7 +69,7 @@
         "Fixed: Minor bugs"
       ],
       "state": "OLD",
-      "supported": false,
+      "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
     },
