@@ -5,15 +5,29 @@
   "apkUrl": "https://raw.githubusercontent.com/Sinsrated/kyogobe.apk/main/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
+    {
+      "version": "1.5",
+      "releaseDate": "2026-07-28",
+      "mandatory": true,
+      "releaseNotes": [
+        "Added: auto refresh in all pages (no need to restart the app to see new content)",
+        "Added: more Raws",
+        "Fixed: loading speed"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
        {
       "version": "1.4",
       "releaseDate": "2026-06-29",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
         "Added: search by year",
         "Fixed: login issues"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
@@ -27,7 +41,7 @@
         "Fixed: Minor bugs"
       ],
       "state": "OLD",
-      "supported": true,
+      "supported": false,
       "maintenance": false,
       "maintenanceMessage": ""
     },
@@ -41,7 +55,7 @@
         "Fixed: Minor bugs"
       ],
       "state": "OLD",
-      "supported": true,
+      "supported": false,
       "maintenance": false,
       "maintenanceMessage": ""
     },
@@ -55,7 +69,7 @@
         "Fixed: Minor bugs"
       ],
       "state": "OLD",
-      "supported": true,
+      "supported": false,
       "maintenance": false,
       "maintenanceMessage": ""
     },
