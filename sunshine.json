@@ -6,15 +6,28 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
     {
+      "version": "1.6",
+      "releaseDate": "2026-07-29",
+      "mandatory": true,
+      "releaseNotes": [
+        "Added: new rows in home page",
+        "Fixed: login issues"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+    {
       "version": "1.5",
       "releaseDate": "2026-07-28",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
         "Added: auto refresh in all pages (no need to restart the app to see new content)",
         "Added: more Raws",
         "Fixed: loading speed"
       ],
-      "state": "LATEST",
+      "state": "OLDT",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
