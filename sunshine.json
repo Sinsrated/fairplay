@@ -6,6 +6,19 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
     {
+      "version": "1.7.0",
+      "releaseDate": "2026-07-29",
+      "mandatory": true,
+      "releaseNotes": [
+        "Added: FAST DOWNLOAD SERVER ",
+        "Fixed: DOWNLOAD issues"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+    {
       "version": "1.6",
       "releaseDate": "2026-07-29",
       "mandatory": true,
@@ -13,7 +26,7 @@
         "Added: new rows in home page",
         "Fixed: login issues"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
@@ -27,7 +40,7 @@
         "Added: more Raws",
         "Fixed: loading speed"
       ],
-      "state": "OLDT",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
