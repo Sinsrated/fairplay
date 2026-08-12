@@ -6,12 +6,11 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
     {
-      "version": "1.7.0",
-      "releaseDate": "2026-08-11",
+      "version": "1.8.0",
+      "releaseDate": "2026-08-12",
       "mandatory": true,
       "releaseNotes": [
-        "Added: FAST DOWNLOAD SERVER ",
-        "Fixed: DOWNLOAD issues"
+        "Fixed: play and download issues"
       ],
       "state": "LATEST",
       "supported": true,
@@ -19,9 +18,22 @@
       "maintenanceMessage": ""
     },
     {
+      "version": "1.7.0",
+      "releaseDate": "2026-08-11",
+      "mandatory": false,
+      "releaseNotes": [
+        "Added: FAST DOWNLOAD SERVER ",
+        "Fixed: DOWNLOAD issues"
+      ],
+      "state": "OLD",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+    {
       "version": "1.6",
       "releaseDate": "2026-07-29",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
         "Added: new rows in home page",
         "Fixed: login issues"
