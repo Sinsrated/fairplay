@@ -6,13 +6,27 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
     {
-      "version": "1.8.0",
+      "version": "1.9.0",
       "releaseDate": "2026-08-12",
       "mandatory": true,
       "releaseNotes": [
-        "Fixed: play and download issues"
+        "Fixed: play and download issues",
+        "Added: super fast server",
+        "Fixed: Resume Download",
+        "Tondeka EKololo"
       ],
       "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },{
+      "version": "1.8.0",
+      "releaseDate": "2026-08-12",
+      "mandatory": false,
+      "releaseNotes": [
+        "Fixed: play and download issues"
+      ],
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
