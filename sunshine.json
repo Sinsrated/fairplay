@@ -5,17 +5,31 @@
   "apkUrl": "https://raw.githubusercontent.com/Sinsrated/kyogobe.apk/main/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
+     {
+      "version": "2.0",
+      "releaseDate": "2026-08-29",
+      "mandatory": true,
+      "releaseNotes": [
+       "Fixed: DOWNLOAD issues",
+       "Added: play button on downloaded files",
+       "Updated: files"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
     {
       "version": "1.9.0",
       "releaseDate": "2026-08-12",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
         "Fixed: play and download issues",
         "Added: super fast server",
         "Fixed: Resume Download",
         "Tondeka EKololo"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
