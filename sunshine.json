@@ -4,34 +4,36 @@
   "globalMaintenanceMessage": "Kyogobe is back on air lets go.",
   "apkUrl": "https://raw.githubusercontent.com/Sinsrated/kyogobe.apk/main/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
-  "versions": [  {
-      "version": "1.9.0",
-      "releaseDate": "2026-9-7",
+  "versions": [
+     {
+      "version": "2.0",
+      "releaseDate": "2026-09-07",
       "mandatory": true,
       "releaseNotes": [
-       "Fixed: App crashing issues"
-      
+       "Fixed: DOWNLOAD issues",
+       "Added: play button on downloaded files",
+       "Updated: files"
       ],
       "state": "LATEST",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
     },
-     {
-      "version": "2.0",
-      "releaseDate": "2026-08-29",
+    {
+      "version": "1.9.0",
+      "releaseDate": "2026-08-12",
       "mandatory": false,
       "releaseNotes": [
-       "Fixed: DOWNLOAD issues",
-       "Added: play button on downloaded files",
-       "Updated: files"
+        "Fixed: play and download issues",
+        "Added: super fast server",
+        "Fixed: Resume Download",
+        "Tondeka EKololo"
       ],
       "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
-    },
-   {
+    },{
       "version": "1.8.0",
       "releaseDate": "2026-08-12",
       "mandatory": false,
@@ -137,20 +139,7 @@
       "maintenance": false,
       "maintenanceMessage": ""
     },
-     {
-      "version": "1.0",
-      "releaseDate": "2026-06-13",
-      "mandatory": false,
-      "releaseNotes": [
-         "Added: Card payment support",
-        "Added: MarzPay integration",
-        "Fixed: Minor bugs"
-      ],
-      "state": "OLD",
-      "supported": false,
-      "maintenance": false,
-      "maintenanceMessage": ""
-    },
+     
     {
       "version": "0.0",
       "releaseDate": "2026-05-01",
