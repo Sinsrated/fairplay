@@ -6,15 +6,27 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
      {
+      "version": "2.1",
+      "releaseDate": "2026-09-09",
+      "mandatory": true,
+      "releaseNotes": [
+       "Fixed: Crushing issues"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+     {
       "version": "2.0",
       "releaseDate": "2026-09-07",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
        "Fixed: DOWNLOAD issues",
        "Added: play button on downloaded files",
        "Updated: files"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
