@@ -2,7 +2,7 @@
   "currentVersion": "0.0",
   "globalMaintenance": false,
   "globalMaintenanceMessage": "Kyogobe is back on air lets go.",
-  "apkUrl": "https://raw.githubusercontent.com/Sinsrated/kyogobe.apk/main/kyogobe.apk",
+  "apkUrl": "https://pub-63f2d51feb2344728fd7669a980548c0.r2.dev/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
      {
@@ -13,18 +13,6 @@
        "Fixed: Crushing issues"
       ],
       "state": "LATEST",
-      "supported": true,
-      "maintenance": false,
-      "maintenanceMessage": ""
-    },
-    {
-      "version": "2.1.0",
-      "releaseDate": "2026-09-09",
-      "mandatory": false,
-      "releaseNotes": [
-       "Fixed: Crushing issues"
-      ],
-      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
