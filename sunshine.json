@@ -5,14 +5,29 @@
   "apkUrl": "https://pub-63f2d51feb2344728fd7669a980548c0.r2.dev/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
-     {
-      "version": "2.2",
+    {
+      "version": "2.3",
       "releaseDate": "2026-09-09",
       "mandatory": true,
       "releaseNotes": [
-       "Fixed: Crushing issues"
+       "Fixed: Crushing issues",
+       "Added: search button on bottom bar",
+       "Added: filter with vj on recently added and latest release",
+        "Added: Lock screen player"
       ],
       "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+     {
+      "version": "2.2",
+      "releaseDate": "2026-09-09",
+      "mandatory": false,
+      "releaseNotes": [
+       "Fixed: Crushing issues"
+      ],
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
