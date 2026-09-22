@@ -6,16 +6,28 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
     {
-      "version": "2.3",
+      "version": "2.4",
       "releaseDate": "2026-09-09",
       "mandatory": true,
+      "releaseNotes": [
+       "Fixed: playing issues"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+    {
+      "version": "2.3",
+      "releaseDate": "2026-09-09",
+      "mandatory": false,
       "releaseNotes": [
        "Fixed: Crushing issues",
        "Added: search button on bottom bar",
        "Added: filter with vj on recently added and latest release",
         "Added: Lock screen player"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
