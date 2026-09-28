@@ -1,19 +1,32 @@
 {
-  "currentVersion": "2.5",
+  "currentVersion": "2.6",
   "globalMaintenance": false,
   "globalMaintenanceMessage": "Kyogobe is back on air lets go.",
   "apkUrl": "https://pub-63f2d51feb2344728fd7669a980548c0.r2.dev/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
+    {
+      "version": "2.6",
+      "releaseDate": "2026-09-09",
+      "mandatory": true,
+      "releaseNotes": [
+       "New: Let's go black",
+       "Added: tv special"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
       {
       "version": "2.5",
       "releaseDate": "2026-09-09",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
        "Fixed: Crushing issues",
        "Added: Houver effects on Tv icons"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
