@@ -6,14 +6,28 @@
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
     {
+      "version": "2.7",
+      "releaseDate": "2026-09-30",
+      "mandatory": true,
+      "releaseNotes": [
+       
+       "Added: more related content",
+        "Fixed: Tv controls"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+    {
       "version": "2.6",
       "releaseDate": "2026-09-09",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
        "New: Let's go black",
        "Added: tv special"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
