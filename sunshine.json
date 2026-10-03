@@ -1,20 +1,33 @@
 {
-  "currentVersion": "2.6",
+  "currentVersion": "2.8",
   "globalMaintenance": false,
   "globalMaintenanceMessage": "Kyogobe is back on air lets go.",
   "apkUrl": "https://pub-63f2d51feb2344728fd7669a980548c0.r2.dev/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
+      {
+      "version": "2.8",
+      "releaseDate": "2026-09-30",
+      "mandatory": true,
+      "releaseNotes": [
+       
+        "Fixed: minor issues"
+      ],
+      "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
     {
       "version": "2.7",
       "releaseDate": "2026-09-30",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": [
        
        "Added: more related content",
         "Fixed: Tv controls"
       ],
-      "state": "LATEST",
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
