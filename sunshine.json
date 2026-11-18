@@ -1,18 +1,30 @@
 {
-  "currentVersion": "3.1",
+  "currentVersion": "3.3",
   "globalMaintenance": false,
   "globalMaintenanceMessage": "Kyogobe is back on air lets go.",
   "apkUrl": "https://pub-63f2d51feb2344728fd7669a980548c0.r2.dev/kyogobe.apk",
   "websiteUrl": "https://kyogobe.com/",
   "versions": [
-    {
-      "version": "3.2",
+      {
+      "version": "3.3",
       "releaseDate": "2026-11-16",
       "mandatory": true,
       "releaseNotes": [
-       "Fixed: payments issues"
+       "Fixed: play errors"
       ],
       "state": "LATEST",
+      "supported": true,
+      "maintenance": false,
+      "maintenanceMessage": ""
+    },
+    {
+      "version": "3.2",
+      "releaseDate": "2026-11-16",
+      "mandatory": false,
+      "releaseNotes": [
+       "Fixed: payments issues"
+      ],
+      "state": "OLD",
       "supported": true,
       "maintenance": false,
       "maintenanceMessage": ""
